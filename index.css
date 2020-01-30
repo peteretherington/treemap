@@ -10,3 +10,8 @@ body {
 	text-align: center;
 	margin: 0;
 }
+
+#treeMap {
+	margin: 1rem 0;
+	font-size: 10px;
+}
